@@ -12,3 +12,6 @@ body {
   align-items: center;
   justify-content: space-between;
 }
+.navlink {
+  margin: 0 5px;
+}
